@@ -1,4 +1,4 @@
-// Reviewed and updated by Makenzi.1
+// Reviewed and updated by Makenzi.
 // Edited directly on GitHub
 // Jaimel__Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
@@ -10,6 +10,7 @@ int main()
 {
 	cout << "Hello from Jaimel! This is my first Git commit.";
 	cout << "Git makes collaboration easy!" << endl;
+	cout << "Lab 1 completed on [today's date]!" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
